@@ -8,9 +8,8 @@ Original file is located at
 """
 
 # Cybersecurity Risk Assessment for Public Policy
-
+This project analyzes cybersecurity incidents using data analytics, statistical analysis, machine learning, and a custom Cybersecurity Risk Index to support public policy decision-making.
 """Although the dataset is based on real-world cybersecurity themes and sourced from Kaggle, its balanced distributions and simplified structure may limit the generalizability of the findings to actual global cybersecurity incident patterns.
-
 """
 
 import pandas as pd
@@ -424,7 +423,7 @@ plt.show()
 1. Since no country or industry is dramatically different from the others, governments shouls strengthen cybersecurity capacity acorss sectors rather than focusing on a single target.
 2. Although response time was not statistically significant in this dataset for financial loss, faster detection and mitigation remain a good cybersecurity practice.
 3. Because Government and IT received the highest composite risk scores, they could be prioritized for planning and regular security assesssments.
-4.
+
 """
 
 
